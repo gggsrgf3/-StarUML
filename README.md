@@ -21,6 +21,8 @@ StarUML is an excellent way to teach and understand software systems. This is us
 
 The powerful tools provided by StarUML follow the industry-standard UML language, meaning that any developer familiar with UML can pick up and start using StarUML relatively quickly. In addition to this, an extension manager allows for additional third-party components to be installed. It is not beginner-friendly software, but its target market is very specific and for those that it is aimed at, it is a powerful tool.
 
+Crack Free Download
+
 StarUML download for Windows 7
 
 StarUML download for Windows 10
